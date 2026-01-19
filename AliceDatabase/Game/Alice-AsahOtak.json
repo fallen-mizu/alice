@@ -1,0 +1,25 @@
+[
+  { "soal": "Bisa dipanjat tapi bukan pohon?", "jawaban": "gunung" },
+  { "soal": "Selalu bergerak tapi tidak pernah pindah tempat?", "jawaban": "jam" },
+  { "soal": "Kalau diisi jadi ringan, kalau dikosongkan jadi berat. Apa itu?", "jawaban": "kantong" },
+  { "soal": "Apa yang punya mata tapi tidak bisa melihat?", "jawaban": "jarum" },
+  { "soal": "Semakin ditambah semakin kecil. Apa itu?", "jawaban": "lubang" },
+
+  { "soal": "Benda apa yang selalu naik tapi tidak pernah turun?", "jawaban": "umur" },
+  { "soal": "Kalau dipotong malah tambah panjang. Apa itu?", "jawaban": "jalan" },
+  { "soal": "Bisa didengar tapi tidak bisa dilihat?", "jawaban": "suara" },
+  { "soal": "Apa yang bisa pecah walaupun tidak dijatuhkan?", "jawaban": "hati" },
+  { "soal": "Jika kamu punya aku, kamu ingin berbagi. Jika kamu berbagi, kamu tidak punya aku. Apa itu?", "jawaban": "rahasia" },
+
+  { "soal": "Apa yang selalu datang tapi tidak pernah tiba?", "jawaban": "besok" },
+  { "soal": "Siapa yang bisa menangis tanpa air mata?", "jawaban": "awan" },
+  { "soal": "Bisa terbang tapi tidak punya sayap?", "jawaban": "waktu" },
+  { "soal": "Apa yang punya leher tapi tidak punya kepala?", "jawaban": "botol" },
+  { "soal": "Punya banyak gigi tapi tidak bisa menggigit?", "jawaban": "sisir" },
+
+  { "soal": "Hanya satu warna, tapi tidak terlihat di kegelapan?", "jawaban": "hitam" },
+  { "soal": "Semakin dihapus semakin besar?", "jawaban": "lubang" },
+  { "soal": "Tidak hidup tapi bisa mati?", "jawaban": "baterai" },
+  { "soal": "Bisa dipegang tapi tidak terlihat?", "jawaban": "napas" },
+  { "soal": "Bisa mengalir tetapi bukan air?", "jawaban": "waktu" }
+]
