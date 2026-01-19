@@ -1,0 +1,4890 @@
+{
+  "120363201823802523@g.us": {
+    "players": [
+      {
+        "id": "6285321878839@s.whatsapp.net",
+        "hand": []
+      }
+    ],
+    "deck": [
+      {
+        "color": "red",
+        "value": "5"
+      },
+      {
+        "color": "yellow",
+        "value": "10"
+      },
+      {
+        "color": "blue",
+        "value": "5"
+      },
+      {
+        "color": "yellow",
+        "value": "6"
+      },
+      {
+        "color": "black",
+        "value": "wild13"
+      },
+      {
+        "color": "green",
+        "value": "2"
+      },
+      {
+        "color": "yellow",
+        "value": "11"
+      },
+      {
+        "color": "yellow",
+        "value": "10"
+      },
+      {
+        "color": "green",
+        "value": "9"
+      },
+      {
+        "color": "green",
+        "value": "6"
+      },
+      {
+        "color": "green",
+        "value": "8"
+      },
+      {
+        "color": "green",
+        "value": "4"
+      },
+      {
+        "color": "red",
+        "value": "7"
+      },
+      {
+        "color": "yellow",
+        "value": "3"
+      },
+      {
+        "color": "green",
+        "value": "5"
+      },
+      {
+        "color": "green",
+        "value": "1"
+      },
+      {
+        "color": "yellow",
+        "value": "8"
+      },
+      {
+        "color": "red",
+        "value": "8"
+      },
+      {
+        "color": "yellow",
+        "value": "5"
+      },
+      {
+        "color": "red",
+        "value": "5"
+      },
+      {
+        "color": "blue",
+        "value": "5"
+      },
+      {
+        "color": "green",
+        "value": "4"
+      },
+      {
+        "color": "blue",
+        "value": "10"
+      },
+      {
+        "color": "yellow",
+        "value": "11"
+      },
+      {
+        "color": "red",
+        "value": "10"
+      },
+      {
+        "color": "blue",
+        "value": "4"
+      },
+      {
+        "color": "blue",
+        "value": "12"
+      },
+      {
+        "color": "red",
+        "value": "10"
+      },
+      {
+        "color": "blue",
+        "value": "9"
+      },
+      {
+        "color": "blue",
+        "value": "3"
+      },
+      {
+        "color": "red",
+        "value": "8"
+      },
+      {
+        "color": "red",
+        "value": "6"
+      },
+      {
+        "color": "green",
+        "value": "5"
+      },
+      {
+        "color": "black",
+        "value": "wild14"
+      },
+      {
+        "color": "yellow",
+        "value": "8"
+      },
+      {
+        "color": "blue",
+        "value": "9"
+      },
+      {
+        "color": "green",
+        "value": "2"
+      },
+      {
+        "color": "yellow",
+        "value": "9"
+      },
+      {
+        "color": "black",
+        "value": "wild14"
+      },
+      {
+        "color": "yellow",
+        "value": "6"
+      },
+      {
+        "color": "blue",
+        "value": "4"
+      },
+      {
+        "color": "blue",
+        "value": "12"
+      },
+      {
+        "color": "green",
+        "value": "7"
+      },
+      {
+        "color": "blue",
+        "value": "6"
+      },
+      {
+        "color": "red",
+        "value": "7"
+      },
+      {
+        "color": "blue",
+        "value": "8"
+      },
+      {
+        "color": "green",
+        "value": "6"
+      },
+      {
+        "color": "red",
+        "value": "11"
+      },
+      {
+        "color": "red",
+        "value": "12"
+      },
+      {
+        "color": "blue",
+        "value": "11"
+      },
+      {
+        "color": "red",
+        "value": "11"
+      },
+      {
+        "color": "yellow",
+        "value": "7"
+      },
+      {
+        "color": "red",
+        "value": "12"
+      },
+      {
+        "color": "yellow",
+        "value": "2"
+      },
+      {
+        "color": "green",
+        "value": "11"
+      },
+      {
+        "color": "red",
+        "value": "9"
+      },
+      {
+        "color": "blue",
+        "value": "7"
+      },
+      {
+        "color": "green",
+        "value": "8"
+      },
+      {
+        "color": "yellow",
+        "value": "5"
+      },
+      {
+        "color": "red",
+        "value": "4"
+      },
+      {
+        "color": "blue",
+        "value": "10"
+      },
+      {
+        "color": "yellow",
+        "value": "4"
+      },
+      {
+        "color": "black",
+        "value": "wild13"
+      },
+      {
+        "color": "blue",
+        "value": "6"
+      },
+      {
+        "color": "green",
+        "value": "11"
+      },
+      {
+        "color": "blue",
+        "value": "7"
+      },
+      {
+        "color": "yellow",
+        "value": "1"
+      },
+      {
+        "color": "red",
+        "value": "3"
+      },
+      {
+        "color": "yellow",
+        "value": "7"
+      },
+      {
+        "color": "green",
+        "value": "7"
+      },
+      {
+        "color": "yellow",
+        "value": "12"
+      },
+      {
+        "color": "red",
+        "value": "4"
+      },
+      {
+        "color": "green",
+        "value": "3"
+      },
+      {
+        "color": "yellow",
+        "value": "12"
+      },
+      {
+        "color": "yellow",
+        "value": "4"
+      },
+      {
+        "color": "red",
+        "value": "2"
+      },
+      {
+        "color": "red",
+        "value": "1"
+      },
+      {
+        "color": "green",
+        "value": "12"
+      },
+      {
+        "color": "red",
+        "value": "9"
+      },
+      {
+        "color": "blue",
+        "value": "2"
+      },
+      {
+        "color": "yellow",
+        "value": "3"
+      },
+      {
+        "color": "blue",
+        "value": "2"
+      },
+      {
+        "color": "green",
+        "value": "10"
+      },
+      {
+        "color": "red",
+        "value": "2"
+      },
+      {
+        "color": "red",
+        "value": "6"
+      },
+      {
+        "color": "green",
+        "value": "9"
+      },
+      {
+        "color": "blue",
+        "value": "1"
+      },
+      {
+        "color": "yellow",
+        "value": "2"
+      },
+      {
+        "color": "blue",
+        "value": "11"
+      },
+      {
+        "color": "blue",
+        "value": "3"
+      },
+      {
+        "color": "yellow",
+        "value": "9"
+      },
+      {
+        "color": "green",
+        "value": "12"
+      },
+      {
+        "color": "green",
+        "value": "3"
+      },
+      {
+        "color": "red",
+        "value": "3"
+      },
+      {
+        "color": "blue",
+        "value": "8"
+      },
+      {
+        "color": "green",
+        "value": "10"
+      }
+    ],
+    "discardPile": [],
+    "currentPlayer": 0,
+    "direction": 1,
+    "currentCard": null,
+    "drawStack": 0,
+    "blockCardPlayed": false,
+    "reverseCardPlayed": false,
+    "stopVotes": {},
+    "awaitingColorChoice": false
+  },
+  "120363045924961064@g.us": {
+    "players": [
+      {
+        "id": "6285693668629@s.whatsapp.net",
+        "hand": []
+      }
+    ],
+    "deck": [
+      {
+        "color": "red",
+        "value": "12"
+      },
+      {
+        "color": "red",
+        "value": "5"
+      },
+      {
+        "color": "green",
+        "value": "10"
+      },
+      {
+        "color": "green",
+        "value": "12"
+      },
+      {
+        "color": "blue",
+        "value": "8"
+      },
+      {
+        "color": "green",
+        "value": "2"
+      },
+      {
+        "color": "red",
+        "value": "8"
+      },
+      {
+        "color": "green",
+        "value": "9"
+      },
+      {
+        "color": "red",
+        "value": "3"
+      },
+      {
+        "color": "red",
+        "value": "12"
+      },
+      {
+        "color": "blue",
+        "value": "7"
+      },
+      {
+        "color": "green",
+        "value": "12"
+      },
+      {
+        "color": "blue",
+        "value": "3"
+      },
+      {
+        "color": "blue",
+        "value": "4"
+      },
+      {
+        "color": "red",
+        "value": "9"
+      },
+      {
+        "color": "green",
+        "value": "11"
+      },
+      {
+        "color": "black",
+        "value": "wild14"
+      },
+      {
+        "color": "green",
+        "value": "5"
+      },
+      {
+        "color": "red",
+        "value": "2"
+      },
+      {
+        "color": "blue",
+        "value": "4"
+      },
+      {
+        "color": "yellow",
+        "value": "9"
+      },
+      {
+        "color": "red",
+        "value": "5"
+      },
+      {
+        "color": "yellow",
+        "value": "5"
+      },
+      {
+        "color": "blue",
+        "value": "12"
+      },
+      {
+        "color": "blue",
+        "value": "2"
+      },
+      {
+        "color": "black",
+        "value": "wild13"
+      },
+      {
+        "color": "red",
+        "value": "11"
+      },
+      {
+        "color": "blue",
+        "value": "9"
+      },
+      {
+        "color": "blue",
+        "value": "10"
+      },
+      {
+        "color": "red",
+        "value": "11"
+      },
+      {
+        "color": "blue",
+        "value": "6"
+      },
+      {
+        "color": "black",
+        "value": "wild13"
+      },
+      {
+        "color": "blue",
+        "value": "11"
+      },
+      {
+        "color": "blue",
+        "value": "5"
+      },
+      {
+        "color": "yellow",
+        "value": "10"
+      },
+      {
+        "color": "red",
+        "value": "8"
+      },
+      {
+        "color": "blue",
+        "value": "11"
+      },
+      {
+        "color": "green",
+        "value": "4"
+      },
+      {
+        "color": "green",
+        "value": "1"
+      },
+      {
+        "color": "green",
+        "value": "8"
+      },
+      {
+        "color": "yellow",
+        "value": "3"
+      },
+      {
+        "color": "green",
+        "value": "2"
+      },
+      {
+        "color": "blue",
+        "value": "1"
+      },
+      {
+        "color": "green",
+        "value": "3"
+      },
+      {
+        "color": "yellow",
+        "value": "2"
+      },
+      {
+        "color": "red",
+        "value": "2"
+      },
+      {
+        "color": "blue",
+        "value": "8"
+      },
+      {
+        "color": "blue",
+        "value": "12"
+      },
+      {
+        "color": "blue",
+        "value": "6"
+      },
+      {
+        "color": "red",
+        "value": "7"
+      },
+      {
+        "color": "blue",
+        "value": "5"
+      },
+      {
+        "color": "green",
+        "value": "6"
+      },
+      {
+        "color": "yellow",
+        "value": "11"
+      },
+      {
+        "color": "green",
+        "value": "11"
+      },
+      {
+        "color": "green",
+        "value": "7"
+      },
+      {
+        "color": "red",
+        "value": "6"
+      },
+      {
+        "color": "yellow",
+        "value": "1"
+      },
+      {
+        "color": "green",
+        "value": "9"
+      },
+      {
+        "color": "blue",
+        "value": "10"
+      },
+      {
+        "color": "yellow",
+        "value": "5"
+      },
+      {
+        "color": "red",
+        "value": "7"
+      },
+      {
+        "color": "green",
+        "value": "7"
+      },
+      {
+        "color": "yellow",
+        "value": "3"
+      },
+      {
+        "color": "red",
+        "value": "10"
+      },
+      {
+        "color": "black",
+        "value": "wild14"
+      },
+      {
+        "color": "blue",
+        "value": "3"
+      },
+      {
+        "color": "red",
+        "value": "1"
+      },
+      {
+        "color": "green",
+        "value": "6"
+      },
+      {
+        "color": "red",
+        "value": "3"
+      },
+      {
+        "color": "yellow",
+        "value": "8"
+      },
+      {
+        "color": "yellow",
+        "value": "7"
+      },
+      {
+        "color": "green",
+        "value": "8"
+      },
+      {
+        "color": "red",
+        "value": "4"
+      },
+      {
+        "color": "green",
+        "value": "4"
+      },
+      {
+        "color": "red",
+        "value": "9"
+      },
+      {
+        "color": "red",
+        "value": "6"
+      },
+      {
+        "color": "red",
+        "value": "10"
+      },
+      {
+        "color": "blue",
+        "value": "2"
+      },
+      {
+        "color": "yellow",
+        "value": "12"
+      },
+      {
+        "color": "green",
+        "value": "10"
+      },
+      {
+        "color": "yellow",
+        "value": "8"
+      },
+      {
+        "color": "yellow",
+        "value": "4"
+      },
+      {
+        "color": "yellow",
+        "value": "10"
+      },
+      {
+        "color": "blue",
+        "value": "9"
+      },
+      {
+        "color": "green",
+        "value": "5"
+      },
+      {
+        "color": "red",
+        "value": "4"
+      },
+      {
+        "color": "yellow",
+        "value": "4"
+      },
+      {
+        "color": "yellow",
+        "value": "9"
+      },
+      {
+        "color": "green",
+        "value": "3"
+      },
+      {
+        "color": "yellow",
+        "value": "11"
+      },
+      {
+        "color": "yellow",
+        "value": "2"
+      },
+      {
+        "color": "yellow",
+        "value": "7"
+      },
+      {
+        "color": "yellow",
+        "value": "6"
+      },
+      {
+        "color": "yellow",
+        "value": "12"
+      },
+      {
+        "color": "blue",
+        "value": "7"
+      },
+      {
+        "color": "yellow",
+        "value": "6"
+      }
+    ],
+    "discardPile": [],
+    "currentPlayer": 0,
+    "direction": 1,
+    "currentCard": null,
+    "drawStack": 0,
+    "blockCardPlayed": false,
+    "reverseCardPlayed": false,
+    "stopVotes": {},
+    "awaitingColorChoice": false
+  },
+  "120363212737245798@g.us": {
+    "players": [
+      {
+        "id": "6282254492251@s.whatsapp.net",
+        "hand": []
+      },
+      {
+        "id": "6281270338500@s.whatsapp.net",
+        "hand": []
+      }
+    ],
+    "deck": [
+      {
+        "color": "black",
+        "value": "wild13"
+      },
+      {
+        "color": "red",
+        "value": "4"
+      },
+      {
+        "color": "blue",
+        "value": "1"
+      },
+      {
+        "color": "green",
+        "value": "7"
+      },
+      {
+        "color": "green",
+        "value": "10"
+      },
+      {
+        "color": "blue",
+        "value": "10"
+      },
+      {
+        "color": "yellow",
+        "value": "6"
+      },
+      {
+        "color": "blue",
+        "value": "5"
+      },
+      {
+        "color": "yellow",
+        "value": "4"
+      },
+      {
+        "color": "yellow",
+        "value": "12"
+      },
+      {
+        "color": "yellow",
+        "value": "5"
+      },
+      {
+        "color": "green",
+        "value": "1"
+      },
+      {
+        "color": "green",
+        "value": "3"
+      },
+      {
+        "color": "green",
+        "value": "3"
+      },
+      {
+        "color": "blue",
+        "value": "11"
+      },
+      {
+        "color": "green",
+        "value": "5"
+      },
+      {
+        "color": "red",
+        "value": "8"
+      },
+      {
+        "color": "blue",
+        "value": "7"
+      },
+      {
+        "color": "green",
+        "value": "11"
+      },
+      {
+        "color": "blue",
+        "value": "4"
+      },
+      {
+        "color": "yellow",
+        "value": "12"
+      },
+      {
+        "color": "yellow",
+        "value": "11"
+      },
+      {
+        "color": "red",
+        "value": "12"
+      },
+      {
+        "color": "yellow",
+        "value": "10"
+      },
+      {
+        "color": "yellow",
+        "value": "5"
+      },
+      {
+        "color": "green",
+        "value": "2"
+      },
+      {
+        "color": "red",
+        "value": "5"
+      },
+      {
+        "color": "red",
+        "value": "3"
+      },
+      {
+        "color": "red",
+        "value": "10"
+      },
+      {
+        "color": "yellow",
+        "value": "9"
+      },
+      {
+        "color": "blue",
+        "value": "12"
+      },
+      {
+        "color": "green",
+        "value": "8"
+      },
+      {
+        "color": "red",
+        "value": "3"
+      },
+      {
+        "color": "blue",
+        "value": "11"
+      },
+      {
+        "color": "blue",
+        "value": "3"
+      },
+      {
+        "color": "blue",
+        "value": "5"
+      },
+      {
+        "color": "red",
+        "value": "8"
+      },
+      {
+        "color": "yellow",
+        "value": "2"
+      },
+      {
+        "color": "green",
+        "value": "6"
+      },
+      {
+        "color": "green",
+        "value": "5"
+      },
+      {
+        "color": "blue",
+        "value": "12"
+      },
+      {
+        "color": "green",
+        "value": "10"
+      },
+      {
+        "color": "green",
+        "value": "7"
+      },
+      {
+        "color": "red",
+        "value": "1"
+      },
+      {
+        "color": "red",
+        "value": "11"
+      },
+      {
+        "color": "yellow",
+        "value": "9"
+      },
+      {
+        "color": "green",
+        "value": "9"
+      },
+      {
+        "color": "yellow",
+        "value": "1"
+      },
+      {
+        "color": "green",
+        "value": "2"
+      },
+      {
+        "color": "red",
+        "value": "12"
+      },
+      {
+        "color": "yellow",
+        "value": "4"
+      },
+      {
+        "color": "red",
+        "value": "7"
+      },
+      {
+        "color": "red",
+        "value": "9"
+      },
+      {
+        "color": "yellow",
+        "value": "7"
+      },
+      {
+        "color": "green",
+        "value": "4"
+      },
+      {
+        "color": "yellow",
+        "value": "3"
+      },
+      {
+        "color": "red",
+        "value": "11"
+      },
+      {
+        "color": "black",
+        "value": "wild14"
+      },
+      {
+        "color": "blue",
+        "value": "9"
+      },
+      {
+        "color": "red",
+        "value": "7"
+      },
+      {
+        "color": "red",
+        "value": "9"
+      },
+      {
+        "color": "blue",
+        "value": "2"
+      },
+      {
+        "color": "green",
+        "value": "4"
+      },
+      {
+        "color": "black",
+        "value": "wild13"
+      },
+      {
+        "color": "green",
+        "value": "11"
+      },
+      {
+        "color": "green",
+        "value": "12"
+      },
+      {
+        "color": "red",
+        "value": "2"
+      },
+      {
+        "color": "yellow",
+        "value": "6"
+      },
+      {
+        "color": "yellow",
+        "value": "8"
+      },
+      {
+        "color": "blue",
+        "value": "3"
+      },
+      {
+        "color": "red",
+        "value": "6"
+      },
+      {
+        "color": "blue",
+        "value": "4"
+      },
+      {
+        "color": "blue",
+        "value": "8"
+      },
+      {
+        "color": "yellow",
+        "value": "11"
+      },
+      {
+        "color": "red",
+        "value": "4"
+      },
+      {
+        "color": "red",
+        "value": "5"
+      },
+      {
+        "color": "blue",
+        "value": "7"
+      },
+      {
+        "color": "yellow",
+        "value": "10"
+      },
+      {
+        "color": "red",
+        "value": "2"
+      },
+      {
+        "color": "green",
+        "value": "12"
+      },
+      {
+        "color": "blue",
+        "value": "8"
+      },
+      {
+        "color": "blue",
+        "value": "6"
+      },
+      {
+        "color": "blue",
+        "value": "9"
+      },
+      {
+        "color": "yellow",
+        "value": "2"
+      },
+      {
+        "color": "red",
+        "value": "10"
+      },
+      {
+        "color": "green",
+        "value": "8"
+      },
+      {
+        "color": "yellow",
+        "value": "3"
+      },
+      {
+        "color": "blue",
+        "value": "2"
+      },
+      {
+        "color": "green",
+        "value": "6"
+      },
+      {
+        "color": "blue",
+        "value": "6"
+      },
+      {
+        "color": "blue",
+        "value": "10"
+      },
+      {
+        "color": "black",
+        "value": "wild14"
+      },
+      {
+        "color": "yellow",
+        "value": "8"
+      },
+      {
+        "color": "yellow",
+        "value": "7"
+      },
+      {
+        "color": "green",
+        "value": "9"
+      },
+      {
+        "color": "red",
+        "value": "6"
+      }
+    ],
+    "discardPile": [],
+    "currentPlayer": 0,
+    "direction": 1,
+    "currentCard": null,
+    "drawStack": 0,
+    "blockCardPlayed": false,
+    "reverseCardPlayed": false,
+    "stopVotes": {},
+    "awaitingColorChoice": false
+  },
+  "120363306020871255@g.us": {
+    "players": [],
+    "deck": [
+      {
+        "color": "red",
+        "value": "11"
+      },
+      {
+        "color": "green",
+        "value": "5"
+      },
+      {
+        "color": "blue",
+        "value": "8"
+      },
+      {
+        "color": "green",
+        "value": "8"
+      },
+      {
+        "color": "blue",
+        "value": "4"
+      },
+      {
+        "color": "red",
+        "value": "3"
+      },
+      {
+        "color": "green",
+        "value": "5"
+      },
+      {
+        "color": "blue",
+        "value": "9"
+      },
+      {
+        "color": "blue",
+        "value": "5"
+      },
+      {
+        "color": "green",
+        "value": "9"
+      },
+      {
+        "color": "blue",
+        "value": "7"
+      },
+      {
+        "color": "blue",
+        "value": "7"
+      },
+      {
+        "color": "green",
+        "value": "8"
+      },
+      {
+        "color": "black",
+        "value": "wild13"
+      },
+      {
+        "color": "yellow",
+        "value": "5"
+      },
+      {
+        "color": "blue",
+        "value": "6"
+      },
+      {
+        "color": "black",
+        "value": "wild13"
+      },
+      {
+        "color": "yellow",
+        "value": "5"
+      },
+      {
+        "color": "green",
+        "value": "11"
+      },
+      {
+        "color": "red",
+        "value": "2"
+      },
+      {
+        "color": "green",
+        "value": "6"
+      },
+      {
+        "color": "blue",
+        "value": "8"
+      },
+      {
+        "color": "blue",
+        "value": "6"
+      },
+      {
+        "color": "red",
+        "value": "10"
+      },
+      {
+        "color": "green",
+        "value": "12"
+      },
+      {
+        "color": "yellow",
+        "value": "11"
+      },
+      {
+        "color": "blue",
+        "value": "10"
+      },
+      {
+        "color": "yellow",
+        "value": "3"
+      },
+      {
+        "color": "blue",
+        "value": "12"
+      },
+      {
+        "color": "yellow",
+        "value": "9"
+      },
+      {
+        "color": "yellow",
+        "value": "8"
+      },
+      {
+        "color": "yellow",
+        "value": "12"
+      },
+      {
+        "color": "yellow",
+        "value": "4"
+      },
+      {
+        "color": "red",
+        "value": "8"
+      },
+      {
+        "color": "yellow",
+        "value": "10"
+      },
+      {
+        "color": "green",
+        "value": "7"
+      },
+      {
+        "color": "yellow",
+        "value": "12"
+      },
+      {
+        "color": "red",
+        "value": "7"
+      },
+      {
+        "color": "green",
+        "value": "10"
+      },
+      {
+        "color": "red",
+        "value": "6"
+      },
+      {
+        "color": "red",
+        "value": "2"
+      },
+      {
+        "color": "green",
+        "value": "1"
+      },
+      {
+        "color": "green",
+        "value": "3"
+      },
+      {
+        "color": "red",
+        "value": "9"
+      },
+      {
+        "color": "yellow",
+        "value": "4"
+      },
+      {
+        "color": "green",
+        "value": "11"
+      },
+      {
+        "color": "green",
+        "value": "2"
+      },
+      {
+        "color": "red",
+        "value": "4"
+      },
+      {
+        "color": "red",
+        "value": "1"
+      },
+      {
+        "color": "red",
+        "value": "4"
+      },
+      {
+        "color": "red",
+        "value": "11"
+      },
+      {
+        "color": "blue",
+        "value": "9"
+      },
+      {
+        "color": "blue",
+        "value": "2"
+      },
+      {
+        "color": "red",
+        "value": "12"
+      },
+      {
+        "color": "blue",
+        "value": "1"
+      },
+      {
+        "color": "yellow",
+        "value": "2"
+      },
+      {
+        "color": "red",
+        "value": "5"
+      },
+      {
+        "color": "green",
+        "value": "3"
+      },
+      {
+        "color": "yellow",
+        "value": "11"
+      },
+      {
+        "color": "blue",
+        "value": "3"
+      },
+      {
+        "color": "blue",
+        "value": "11"
+      },
+      {
+        "color": "blue",
+        "value": "10"
+      },
+      {
+        "color": "blue",
+        "value": "11"
+      },
+      {
+        "color": "yellow",
+        "value": "1"
+      },
+      {
+        "color": "green",
+        "value": "4"
+      },
+      {
+        "color": "green",
+        "value": "12"
+      },
+      {
+        "color": "green",
+        "value": "9"
+      },
+      {
+        "color": "red",
+        "value": "6"
+      },
+      {
+        "color": "yellow",
+        "value": "3"
+      },
+      {
+        "color": "green",
+        "value": "10"
+      },
+      {
+        "color": "red",
+        "value": "5"
+      },
+      {
+        "color": "black",
+        "value": "wild14"
+      },
+      {
+        "color": "green",
+        "value": "6"
+      },
+      {
+        "color": "red",
+        "value": "8"
+      },
+      {
+        "color": "green",
+        "value": "7"
+      },
+      {
+        "color": "yellow",
+        "value": "9"
+      },
+      {
+        "color": "yellow",
+        "value": "7"
+      },
+      {
+        "color": "blue",
+        "value": "12"
+      },
+      {
+        "color": "yellow",
+        "value": "8"
+      },
+      {
+        "color": "red",
+        "value": "12"
+      },
+      {
+        "color": "red",
+        "value": "9"
+      },
+      {
+        "color": "green",
+        "value": "4"
+      },
+      {
+        "color": "red",
+        "value": "7"
+      },
+      {
+        "color": "green",
+        "value": "2"
+      },
+      {
+        "color": "blue",
+        "value": "5"
+      },
+      {
+        "color": "yellow",
+        "value": "6"
+      },
+      {
+        "color": "yellow",
+        "value": "6"
+      },
+      {
+        "color": "blue",
+        "value": "4"
+      },
+      {
+        "color": "yellow",
+        "value": "7"
+      },
+      {
+        "color": "red",
+        "value": "3"
+      },
+      {
+        "color": "black",
+        "value": "wild14"
+      },
+      {
+        "color": "yellow",
+        "value": "10"
+      },
+      {
+        "color": "blue",
+        "value": "3"
+      },
+      {
+        "color": "blue",
+        "value": "2"
+      },
+      {
+        "color": "red",
+        "value": "10"
+      },
+      {
+        "color": "yellow",
+        "value": "2"
+      }
+    ],
+    "discardPile": [],
+    "currentPlayer": 0,
+    "direction": 1,
+    "currentCard": null,
+    "drawStack": 0,
+    "blockCardPlayed": false,
+    "reverseCardPlayed": false,
+    "stopVotes": {},
+    "awaitingColorChoice": false
+  },
+  "120363361283915475@g.us": {
+    "players": [
+      {
+        "id": "6289637295713@s.whatsapp.net",
+        "hand": [
+          {
+            "color": "red",
+            "value": "8"
+          },
+          {
+            "color": "yellow",
+            "value": "2"
+          },
+          {
+            "color": "blue",
+            "value": "4"
+          },
+          {
+            "color": "red",
+            "value": "1"
+          },
+          {
+            "color": "black",
+            "value": "wild14"
+          },
+          {
+            "color": "red",
+            "value": "6"
+          },
+          {
+            "color": "green",
+            "value": "11"
+          },
+          {
+            "color": "green",
+            "value": "1"
+          },
+          {
+            "color": "yellow",
+            "value": "2"
+          },
+          {
+            "color": "blue",
+            "value": "9"
+          },
+          {
+            "color": "red",
+            "value": "12"
+          },
+          {
+            "color": "green",
+            "value": "5"
+          },
+          {
+            "color": "yellow",
+            "value": "3"
+          },
+          {
+            "color": "blue",
+            "value": "8"
+          },
+          {
+            "color": "green",
+            "value": "6"
+          },
+          {
+            "color": "red",
+            "value": "5"
+          },
+          {
+            "color": "green",
+            "value": "6"
+          },
+          {
+            "color": "blue",
+            "value": "5"
+          },
+          {
+            "color": "green",
+            "value": "7"
+          },
+          {
+            "color": "blue",
+            "value": "8"
+          },
+          {
+            "color": "yellow",
+            "value": "4"
+          }
+        ]
+      },
+      {
+        "id": "6282174441436@s.whatsapp.net",
+        "hand": [
+          {
+            "color": "blue",
+            "value": "11"
+          },
+          {
+            "color": "red",
+            "value": "4"
+          },
+          {
+            "color": "red",
+            "value": "11"
+          },
+          {
+            "color": "yellow",
+            "value": "6"
+          },
+          {
+            "color": "blue",
+            "value": "7"
+          },
+          {
+            "color": "yellow",
+            "value": "12"
+          },
+          {
+            "color": "yellow",
+            "value": "12"
+          },
+          {
+            "color": "yellow",
+            "value": "9"
+          },
+          {
+            "color": "red",
+            "value": "9"
+          },
+          {
+            "color": "blue",
+            "value": "10"
+          },
+          {
+            "color": "yellow",
+            "value": "3"
+          },
+          {
+            "color": "yellow",
+            "value": "8"
+          },
+          {
+            "color": "green",
+            "value": "8"
+          },
+          {
+            "color": "blue",
+            "value": "1"
+          },
+          {
+            "color": "blue",
+            "value": "3"
+          },
+          {
+            "color": "yellow",
+            "value": "4"
+          },
+          {
+            "color": "yellow",
+            "value": "11"
+          },
+          {
+            "color": "green",
+            "value": "4"
+          },
+          {
+            "color": "yellow",
+            "value": "7"
+          },
+          {
+            "color": "green",
+            "value": "9"
+          },
+          {
+            "color": "black",
+            "value": "wild14"
+          }
+        ]
+      },
+      {
+        "id": "6287782250997@s.whatsapp.net",
+        "hand": [
+          {
+            "color": "yellow",
+            "value": "1"
+          },
+          {
+            "color": "red",
+            "value": "12"
+          },
+          {
+            "color": "red",
+            "value": "2"
+          },
+          {
+            "color": "blue",
+            "value": "7"
+          },
+          {
+            "color": "green",
+            "value": "3"
+          },
+          {
+            "color": "green",
+            "value": "4"
+          },
+          {
+            "color": "red",
+            "value": "7"
+          },
+          {
+            "color": "green",
+            "value": "11"
+          },
+          {
+            "color": "yellow",
+            "value": "9"
+          },
+          {
+            "color": "yellow",
+            "value": "8"
+          },
+          {
+            "color": "red",
+            "value": "6"
+          },
+          {
+            "color": "red",
+            "value": "8"
+          },
+          {
+            "color": "blue",
+            "value": "12"
+          },
+          {
+            "color": "blue",
+            "value": "11"
+          },
+          {
+            "color": "yellow",
+            "value": "6"
+          },
+          {
+            "color": "blue",
+            "value": "2"
+          },
+          {
+            "color": "green",
+            "value": "2"
+          },
+          {
+            "color": "blue",
+            "value": "6"
+          },
+          {
+            "color": "green",
+            "value": "10"
+          },
+          {
+            "color": "blue",
+            "value": "10"
+          },
+          {
+            "color": "green",
+            "value": "7"
+          }
+        ]
+      }
+    ],
+    "deck": [
+      {
+        "color": "red",
+        "value": "3"
+      },
+      {
+        "color": "red",
+        "value": "10"
+      },
+      {
+        "color": "yellow",
+        "value": "5"
+      },
+      {
+        "color": "yellow",
+        "value": "5"
+      },
+      {
+        "color": "yellow",
+        "value": "11"
+      },
+      {
+        "color": "red",
+        "value": "4"
+      },
+      {
+        "color": "red",
+        "value": "3"
+      },
+      {
+        "color": "green",
+        "value": "12"
+      },
+      {
+        "color": "red",
+        "value": "7"
+      },
+      {
+        "color": "yellow",
+        "value": "10"
+      },
+      {
+        "color": "yellow",
+        "value": "7"
+      },
+      {
+        "color": "black",
+        "value": "wild13"
+      },
+      {
+        "color": "green",
+        "value": "5"
+      },
+      {
+        "color": "blue",
+        "value": "6"
+      },
+      {
+        "color": "red",
+        "value": "10"
+      },
+      {
+        "color": "yellow",
+        "value": "10"
+      },
+      {
+        "color": "blue",
+        "value": "4"
+      },
+      {
+        "color": "green",
+        "value": "8"
+      },
+      {
+        "color": "red",
+        "value": "5"
+      },
+      {
+        "color": "red",
+        "value": "9"
+      },
+      {
+        "color": "blue",
+        "value": "5"
+      },
+      {
+        "color": "green",
+        "value": "10"
+      },
+      {
+        "color": "red",
+        "value": "2"
+      },
+      {
+        "color": "green",
+        "value": "9"
+      },
+      {
+        "color": "green",
+        "value": "12"
+      },
+      {
+        "color": "blue",
+        "value": "12"
+      },
+      {
+        "color": "green",
+        "value": "3"
+      },
+      {
+        "color": "blue",
+        "value": "9"
+      },
+      {
+        "color": "blue",
+        "value": "2"
+      },
+      {
+        "color": "blue",
+        "value": "3"
+      }
+    ],
+    "discardPile": [
+      {
+        "color": "red",
+        "value": "11"
+      },
+      {
+        "color": "green",
+        "value": "2"
+      },
+      {
+        "color": "black",
+        "value": "wild13"
+      }
+    ],
+    "currentPlayer": 0,
+    "direction": 1,
+    "currentCard": {
+      "color": "black",
+      "value": "wild13"
+    },
+    "drawStack": 0,
+    "blockCardPlayed": false,
+    "reverseCardPlayed": false,
+    "stopVotes": {},
+    "awaitingColorChoice": false
+  },
+  "120363358363232191@g.us": {
+    "players": [
+      {
+        "id": "6283148560954@s.whatsapp.net",
+        "hand": [
+          {
+            "color": "green",
+            "value": "12"
+          },
+          {
+            "color": "red",
+            "value": "11"
+          },
+          {
+            "color": "yellow",
+            "value": "6"
+          },
+          {
+            "color": "blue",
+            "value": "1"
+          },
+          {
+            "color": "green",
+            "value": "8"
+          },
+          {
+            "color": "yellow",
+            "value": "11"
+          },
+          {
+            "color": "yellow",
+            "value": "4"
+          }
+        ]
+      },
+      {
+        "id": "6285693320890@s.whatsapp.net",
+        "hand": [
+          {
+            "color": "red",
+            "value": "9"
+          },
+          {
+            "color": "green",
+            "value": "10"
+          },
+          {
+            "color": "red",
+            "value": "3"
+          },
+          {
+            "color": "blue",
+            "value": "12"
+          },
+          {
+            "color": "green",
+            "value": "6"
+          },
+          {
+            "color": "red",
+            "value": "12"
+          },
+          {
+            "color": "blue",
+            "value": "7"
+          }
+        ]
+      }
+    ],
+    "deck": [
+      {
+        "color": "yellow",
+        "value": "2"
+      },
+      {
+        "color": "red",
+        "value": "10"
+      },
+      {
+        "color": "blue",
+        "value": "2"
+      },
+      {
+        "color": "yellow",
+        "value": "12"
+      },
+      {
+        "color": "red",
+        "value": "4"
+      },
+      {
+        "color": "yellow",
+        "value": "4"
+      },
+      {
+        "color": "yellow",
+        "value": "5"
+      },
+      {
+        "color": "yellow",
+        "value": "1"
+      },
+      {
+        "color": "green",
+        "value": "7"
+      },
+      {
+        "color": "red",
+        "value": "1"
+      },
+      {
+        "color": "yellow",
+        "value": "7"
+      },
+      {
+        "color": "blue",
+        "value": "10"
+      },
+      {
+        "color": "green",
+        "value": "2"
+      },
+      {
+        "color": "yellow",
+        "value": "9"
+      },
+      {
+        "color": "red",
+        "value": "9"
+      },
+      {
+        "color": "green",
+        "value": "2"
+      },
+      {
+        "color": "blue",
+        "value": "11"
+      },
+      {
+        "color": "blue",
+        "value": "8"
+      },
+      {
+        "color": "green",
+        "value": "3"
+      },
+      {
+        "color": "yellow",
+        "value": "6"
+      },
+      {
+        "color": "red",
+        "value": "12"
+      },
+      {
+        "color": "yellow",
+        "value": "11"
+      },
+      {
+        "color": "yellow",
+        "value": "8"
+      },
+      {
+        "color": "yellow",
+        "value": "3"
+      },
+      {
+        "color": "green",
+        "value": "6"
+      },
+      {
+        "color": "red",
+        "value": "2"
+      },
+      {
+        "color": "green",
+        "value": "9"
+      },
+      {
+        "color": "red",
+        "value": "5"
+      },
+      {
+        "color": "red",
+        "value": "4"
+      },
+      {
+        "color": "blue",
+        "value": "6"
+      },
+      {
+        "color": "green",
+        "value": "4"
+      },
+      {
+        "color": "yellow",
+        "value": "7"
+      },
+      {
+        "color": "green",
+        "value": "1"
+      },
+      {
+        "color": "red",
+        "value": "8"
+      },
+      {
+        "color": "yellow",
+        "value": "5"
+      },
+      {
+        "color": "green",
+        "value": "11"
+      },
+      {
+        "color": "blue",
+        "value": "4"
+      },
+      {
+        "color": "red",
+        "value": "3"
+      },
+      {
+        "color": "red",
+        "value": "2"
+      },
+      {
+        "color": "red",
+        "value": "11"
+      },
+      {
+        "color": "blue",
+        "value": "6"
+      },
+      {
+        "color": "yellow",
+        "value": "9"
+      },
+      {
+        "color": "green",
+        "value": "4"
+      },
+      {
+        "color": "green",
+        "value": "9"
+      },
+      {
+        "color": "black",
+        "value": "wild13"
+      },
+      {
+        "color": "red",
+        "value": "7"
+      },
+      {
+        "color": "blue",
+        "value": "3"
+      },
+      {
+        "color": "green",
+        "value": "7"
+      },
+      {
+        "color": "black",
+        "value": "wild13"
+      },
+      {
+        "color": "green",
+        "value": "5"
+      },
+      {
+        "color": "yellow",
+        "value": "10"
+      },
+      {
+        "color": "red",
+        "value": "6"
+      },
+      {
+        "color": "black",
+        "value": "wild14"
+      },
+      {
+        "color": "blue",
+        "value": "3"
+      },
+      {
+        "color": "blue",
+        "value": "2"
+      },
+      {
+        "color": "green",
+        "value": "3"
+      },
+      {
+        "color": "black",
+        "value": "wild14"
+      },
+      {
+        "color": "yellow",
+        "value": "8"
+      },
+      {
+        "color": "blue",
+        "value": "5"
+      },
+      {
+        "color": "blue",
+        "value": "7"
+      },
+      {
+        "color": "green",
+        "value": "10"
+      },
+      {
+        "color": "green",
+        "value": "11"
+      },
+      {
+        "color": "red",
+        "value": "10"
+      },
+      {
+        "color": "blue",
+        "value": "12"
+      },
+      {
+        "color": "blue",
+        "value": "10"
+      },
+      {
+        "color": "yellow",
+        "value": "3"
+      },
+      {
+        "color": "green",
+        "value": "12"
+      },
+      {
+        "color": "red",
+        "value": "6"
+      },
+      {
+        "color": "blue",
+        "value": "11"
+      },
+      {
+        "color": "yellow",
+        "value": "2"
+      },
+      {
+        "color": "blue",
+        "value": "9"
+      },
+      {
+        "color": "red",
+        "value": "5"
+      },
+      {
+        "color": "blue",
+        "value": "4"
+      },
+      {
+        "color": "green",
+        "value": "5"
+      },
+      {
+        "color": "green",
+        "value": "8"
+      },
+      {
+        "color": "yellow",
+        "value": "12"
+      },
+      {
+        "color": "blue",
+        "value": "5"
+      },
+      {
+        "color": "red",
+        "value": "8"
+      },
+      {
+        "color": "red",
+        "value": "7"
+      },
+      {
+        "color": "blue",
+        "value": "8"
+      },
+      {
+        "color": "yellow",
+        "value": "10"
+      }
+    ],
+    "discardPile": [
+      {
+        "color": "blue",
+        "value": "9"
+      }
+    ],
+    "currentPlayer": 0,
+    "direction": 1,
+    "currentCard": {
+      "color": "blue",
+      "value": "9"
+    },
+    "drawStack": 0,
+    "blockCardPlayed": false,
+    "reverseCardPlayed": false,
+    "stopVotes": {},
+    "awaitingColorChoice": false
+  },
+  "120363401394331125@g.us": {
+    "players": [
+      {
+        "id": "6287880682364@s.whatsapp.net",
+        "hand": [
+          {
+            "color": "yellow",
+            "value": "8"
+          },
+          {
+            "color": "red",
+            "value": "5"
+          },
+          {
+            "color": "green",
+            "value": "3"
+          },
+          {
+            "color": "black",
+            "value": "wild13"
+          },
+          {
+            "color": "blue",
+            "value": "5"
+          },
+          {
+            "color": "green",
+            "value": "8"
+          },
+          {
+            "color": "red",
+            "value": "6"
+          }
+        ]
+      },
+      {
+        "id": "6283183323234@s.whatsapp.net",
+        "hand": [
+          {
+            "color": "yellow",
+            "value": "9"
+          },
+          {
+            "color": "red",
+            "value": "9"
+          },
+          {
+            "color": "blue",
+            "value": "5"
+          },
+          {
+            "color": "yellow",
+            "value": "10"
+          },
+          {
+            "color": "green",
+            "value": "10"
+          },
+          {
+            "color": "yellow",
+            "value": "2"
+          },
+          {
+            "color": "blue",
+            "value": "2"
+          }
+        ]
+      }
+    ],
+    "deck": [
+      {
+        "color": "red",
+        "value": "7"
+      },
+      {
+        "color": "red",
+        "value": "3"
+      },
+      {
+        "color": "red",
+        "value": "8"
+      },
+      {
+        "color": "green",
+        "value": "6"
+      },
+      {
+        "color": "green",
+        "value": "9"
+      },
+      {
+        "color": "green",
+        "value": "2"
+      },
+      {
+        "color": "red",
+        "value": "10"
+      },
+      {
+        "color": "yellow",
+        "value": "6"
+      },
+      {
+        "color": "blue",
+        "value": "2"
+      },
+      {
+        "color": "green",
+        "value": "7"
+      },
+      {
+        "color": "blue",
+        "value": "10"
+      },
+      {
+        "color": "green",
+        "value": "10"
+      },
+      {
+        "color": "green",
+        "value": "12"
+      },
+      {
+        "color": "red",
+        "value": "9"
+      },
+      {
+        "color": "black",
+        "value": "wild13"
+      },
+      {
+        "color": "green",
+        "value": "7"
+      },
+      {
+        "color": "red",
+        "value": "5"
+      },
+      {
+        "color": "yellow",
+        "value": "12"
+      },
+      {
+        "color": "yellow",
+        "value": "9"
+      },
+      {
+        "color": "red",
+        "value": "10"
+      },
+      {
+        "color": "blue",
+        "value": "8"
+      },
+      {
+        "color": "yellow",
+        "value": "3"
+      },
+      {
+        "color": "yellow",
+        "value": "12"
+      },
+      {
+        "color": "blue",
+        "value": "11"
+      },
+      {
+        "color": "yellow",
+        "value": "1"
+      },
+      {
+        "color": "blue",
+        "value": "4"
+      },
+      {
+        "color": "red",
+        "value": "6"
+      },
+      {
+        "color": "blue",
+        "value": "3"
+      },
+      {
+        "color": "green",
+        "value": "5"
+      },
+      {
+        "color": "yellow",
+        "value": "3"
+      },
+      {
+        "color": "yellow",
+        "value": "4"
+      },
+      {
+        "color": "black",
+        "value": "wild14"
+      },
+      {
+        "color": "yellow",
+        "value": "11"
+      },
+      {
+        "color": "yellow",
+        "value": "8"
+      },
+      {
+        "color": "red",
+        "value": "11"
+      },
+      {
+        "color": "green",
+        "value": "4"
+      },
+      {
+        "color": "red",
+        "value": "1"
+      },
+      {
+        "color": "red",
+        "value": "3"
+      },
+      {
+        "color": "blue",
+        "value": "7"
+      },
+      {
+        "color": "red",
+        "value": "4"
+      },
+      {
+        "color": "green",
+        "value": "12"
+      },
+      {
+        "color": "yellow",
+        "value": "2"
+      },
+      {
+        "color": "yellow",
+        "value": "5"
+      },
+      {
+        "color": "red",
+        "value": "2"
+      },
+      {
+        "color": "red",
+        "value": "12"
+      },
+      {
+        "color": "blue",
+        "value": "9"
+      },
+      {
+        "color": "green",
+        "value": "11"
+      },
+      {
+        "color": "blue",
+        "value": "3"
+      },
+      {
+        "color": "blue",
+        "value": "6"
+      },
+      {
+        "color": "yellow",
+        "value": "4"
+      },
+      {
+        "color": "green",
+        "value": "8"
+      },
+      {
+        "color": "blue",
+        "value": "6"
+      },
+      {
+        "color": "blue",
+        "value": "12"
+      },
+      {
+        "color": "red",
+        "value": "12"
+      },
+      {
+        "color": "red",
+        "value": "8"
+      },
+      {
+        "color": "green",
+        "value": "4"
+      },
+      {
+        "color": "yellow",
+        "value": "10"
+      },
+      {
+        "color": "red",
+        "value": "7"
+      },
+      {
+        "color": "yellow",
+        "value": "11"
+      },
+      {
+        "color": "black",
+        "value": "wild14"
+      },
+      {
+        "color": "yellow",
+        "value": "6"
+      },
+      {
+        "color": "green",
+        "value": "1"
+      },
+      {
+        "color": "yellow",
+        "value": "7"
+      },
+      {
+        "color": "blue",
+        "value": "1"
+      },
+      {
+        "color": "green",
+        "value": "3"
+      },
+      {
+        "color": "yellow",
+        "value": "7"
+      },
+      {
+        "color": "green",
+        "value": "11"
+      },
+      {
+        "color": "red",
+        "value": "4"
+      },
+      {
+        "color": "blue",
+        "value": "12"
+      },
+      {
+        "color": "blue",
+        "value": "4"
+      },
+      {
+        "color": "yellow",
+        "value": "5"
+      },
+      {
+        "color": "green",
+        "value": "2"
+      },
+      {
+        "color": "red",
+        "value": "2"
+      },
+      {
+        "color": "red",
+        "value": "11"
+      },
+      {
+        "color": "blue",
+        "value": "8"
+      },
+      {
+        "color": "green",
+        "value": "9"
+      },
+      {
+        "color": "blue",
+        "value": "9"
+      },
+      {
+        "color": "blue",
+        "value": "11"
+      },
+      {
+        "color": "blue",
+        "value": "10"
+      },
+      {
+        "color": "blue",
+        "value": "7"
+      },
+      {
+        "color": "green",
+        "value": "6"
+      }
+    ],
+    "discardPile": [
+      {
+        "color": "green",
+        "value": "5"
+      }
+    ],
+    "currentPlayer": 0,
+    "direction": 1,
+    "currentCard": {
+      "color": "green",
+      "value": "5"
+    },
+    "drawStack": 0,
+    "blockCardPlayed": false,
+    "reverseCardPlayed": false,
+    "stopVotes": {},
+    "awaitingColorChoice": false
+  },
+  "120363420856716977@g.us": {
+    "players": [
+      {
+        "id": "6288276353812@s.whatsapp.net",
+        "hand": [
+          {
+            "color": "yellow",
+            "value": "10"
+          },
+          {
+            "color": "blue",
+            "value": "3"
+          },
+          {
+            "color": "red",
+            "value": "2"
+          },
+          {
+            "color": "yellow",
+            "value": "12"
+          },
+          {
+            "color": "yellow",
+            "value": "2"
+          },
+          {
+            "color": "blue",
+            "value": "4"
+          },
+          {
+            "color": "blue",
+            "value": "11"
+          },
+          {
+            "color": "blue",
+            "value": "4"
+          },
+          {
+            "color": "red",
+            "value": "5"
+          },
+          {
+            "color": "yellow",
+            "value": "3"
+          },
+          {
+            "color": "blue",
+            "value": "12"
+          },
+          {
+            "color": "green",
+            "value": "9"
+          },
+          {
+            "color": "red",
+            "value": "9"
+          },
+          {
+            "color": "green",
+            "value": "6"
+          }
+        ]
+      },
+      {
+        "id": "6282178418894@s.whatsapp.net",
+        "hand": [
+          {
+            "color": "red",
+            "value": "4"
+          },
+          {
+            "color": "yellow",
+            "value": "10"
+          },
+          {
+            "color": "red",
+            "value": "11"
+          },
+          {
+            "color": "yellow",
+            "value": "9"
+          },
+          {
+            "color": "blue",
+            "value": "8"
+          },
+          {
+            "color": "black",
+            "value": "wild13"
+          },
+          {
+            "color": "black",
+            "value": "wild14"
+          },
+          {
+            "color": "blue",
+            "value": "7"
+          },
+          {
+            "color": "green",
+            "value": "5"
+          },
+          {
+            "color": "green",
+            "value": "11"
+          },
+          {
+            "color": "yellow",
+            "value": "6"
+          },
+          {
+            "color": "blue",
+            "value": "9"
+          },
+          {
+            "color": "blue",
+            "value": "5"
+          }
+        ]
+      },
+      {
+        "id": "6281930847128@s.whatsapp.net",
+        "hand": [
+          {
+            "color": "blue",
+            "value": "10"
+          },
+          {
+            "color": "green",
+            "value": "8"
+          },
+          {
+            "color": "green",
+            "value": "9"
+          },
+          {
+            "color": "green",
+            "value": "8"
+          },
+          {
+            "color": "blue",
+            "value": "5"
+          },
+          {
+            "color": "green",
+            "value": "3"
+          },
+          {
+            "color": "red",
+            "value": "5"
+          },
+          {
+            "color": "red",
+            "value": "9"
+          },
+          {
+            "color": "green",
+            "value": "4"
+          },
+          {
+            "color": "yellow",
+            "value": "2"
+          },
+          {
+            "color": "green",
+            "value": "2"
+          },
+          {
+            "color": "green",
+            "value": "12"
+          },
+          {
+            "color": "yellow",
+            "value": "8"
+          },
+          {
+            "color": "red",
+            "value": "7"
+          }
+        ]
+      },
+      {
+        "id": "6285169925034@s.whatsapp.net",
+        "hand": [
+          {
+            "color": "yellow",
+            "value": "3"
+          },
+          {
+            "color": "yellow",
+            "value": "5"
+          },
+          {
+            "color": "yellow",
+            "value": "6"
+          },
+          {
+            "color": "red",
+            "value": "12"
+          },
+          {
+            "color": "yellow",
+            "value": "1"
+          },
+          {
+            "color": "blue",
+            "value": "8"
+          },
+          {
+            "color": "blue",
+            "value": "9"
+          }
+        ]
+      }
+    ],
+    "deck": [
+      {
+        "color": "black",
+        "value": "wild13"
+      },
+      {
+        "color": "red",
+        "value": "3"
+      },
+      {
+        "color": "red",
+        "value": "1"
+      },
+      {
+        "color": "blue",
+        "value": "10"
+      },
+      {
+        "color": "red",
+        "value": "3"
+      },
+      {
+        "color": "red",
+        "value": "4"
+      },
+      {
+        "color": "red",
+        "value": "8"
+      },
+      {
+        "color": "blue",
+        "value": "11"
+      },
+      {
+        "color": "blue",
+        "value": "6"
+      },
+      {
+        "color": "red",
+        "value": "12"
+      },
+      {
+        "color": "blue",
+        "value": "6"
+      },
+      {
+        "color": "green",
+        "value": "12"
+      },
+      {
+        "color": "red",
+        "value": "2"
+      },
+      {
+        "color": "green",
+        "value": "11"
+      },
+      {
+        "color": "yellow",
+        "value": "7"
+      },
+      {
+        "color": "red",
+        "value": "11"
+      },
+      {
+        "color": "black",
+        "value": "wild14"
+      },
+      {
+        "color": "blue",
+        "value": "2"
+      },
+      {
+        "color": "yellow",
+        "value": "9"
+      },
+      {
+        "color": "yellow",
+        "value": "11"
+      },
+      {
+        "color": "blue",
+        "value": "2"
+      },
+      {
+        "color": "yellow",
+        "value": "4"
+      },
+      {
+        "color": "red",
+        "value": "10"
+      },
+      {
+        "color": "green",
+        "value": "5"
+      },
+      {
+        "color": "green",
+        "value": "4"
+      },
+      {
+        "color": "green",
+        "value": "7"
+      },
+      {
+        "color": "yellow",
+        "value": "11"
+      },
+      {
+        "color": "blue",
+        "value": "1"
+      },
+      {
+        "color": "blue",
+        "value": "12"
+      },
+      {
+        "color": "yellow",
+        "value": "12"
+      },
+      {
+        "color": "yellow",
+        "value": "8"
+      },
+      {
+        "color": "green",
+        "value": "3"
+      },
+      {
+        "color": "green",
+        "value": "10"
+      },
+      {
+        "color": "green",
+        "value": "6"
+      },
+      {
+        "color": "green",
+        "value": "7"
+      },
+      {
+        "color": "green",
+        "value": "2"
+      },
+      {
+        "color": "red",
+        "value": "10"
+      },
+      {
+        "color": "red",
+        "value": "6"
+      },
+      {
+        "color": "yellow",
+        "value": "4"
+      },
+      {
+        "color": "yellow",
+        "value": "5"
+      },
+      {
+        "color": "blue",
+        "value": "3"
+      },
+      {
+        "color": "blue",
+        "value": "7"
+      },
+      {
+        "color": "yellow",
+        "value": "7"
+      },
+      {
+        "color": "green",
+        "value": "10"
+      },
+      {
+        "color": "green",
+        "value": "1"
+      }
+    ],
+    "discardPile": [
+      {
+        "color": "red",
+        "value": "7"
+      },
+      {
+        "color": "red",
+        "value": "6"
+      },
+      {
+        "color": "red",
+        "value": "8"
+      }
+    ],
+    "currentPlayer": 2,
+    "direction": 1,
+    "currentCard": {
+      "color": "red",
+      "value": "8"
+    },
+    "drawStack": 0,
+    "blockCardPlayed": false,
+    "reverseCardPlayed": false,
+    "stopVotes": {},
+    "awaitingColorChoice": false
+  },
+  "120363379165653187@g.us": {
+    "players": [],
+    "deck": [
+      {
+        "color": "blue",
+        "value": "6"
+      },
+      {
+        "color": "yellow",
+        "value": "8"
+      },
+      {
+        "color": "red",
+        "value": "11"
+      },
+      {
+        "color": "red",
+        "value": "4"
+      },
+      {
+        "color": "blue",
+        "value": "2"
+      },
+      {
+        "color": "red",
+        "value": "7"
+      },
+      {
+        "color": "yellow",
+        "value": "7"
+      },
+      {
+        "color": "blue",
+        "value": "7"
+      },
+      {
+        "color": "yellow",
+        "value": "12"
+      },
+      {
+        "color": "green",
+        "value": "2"
+      },
+      {
+        "color": "green",
+        "value": "3"
+      },
+      {
+        "color": "yellow",
+        "value": "7"
+      },
+      {
+        "color": "green",
+        "value": "6"
+      },
+      {
+        "color": "yellow",
+        "value": "4"
+      },
+      {
+        "color": "yellow",
+        "value": "6"
+      },
+      {
+        "color": "blue",
+        "value": "9"
+      },
+      {
+        "color": "black",
+        "value": "wild14"
+      },
+      {
+        "color": "red",
+        "value": "6"
+      },
+      {
+        "color": "yellow",
+        "value": "5"
+      },
+      {
+        "color": "red",
+        "value": "11"
+      },
+      {
+        "color": "red",
+        "value": "12"
+      },
+      {
+        "color": "blue",
+        "value": "8"
+      },
+      {
+        "color": "blue",
+        "value": "12"
+      },
+      {
+        "color": "yellow",
+        "value": "2"
+      },
+      {
+        "color": "blue",
+        "value": "10"
+      },
+      {
+        "color": "blue",
+        "value": "5"
+      },
+      {
+        "color": "yellow",
+        "value": "10"
+      },
+      {
+        "color": "yellow",
+        "value": "11"
+      },
+      {
+        "color": "yellow",
+        "value": "9"
+      },
+      {
+        "color": "yellow",
+        "value": "1"
+      },
+      {
+        "color": "green",
+        "value": "7"
+      },
+      {
+        "color": "green",
+        "value": "3"
+      },
+      {
+        "color": "red",
+        "value": "5"
+      },
+      {
+        "color": "yellow",
+        "value": "9"
+      },
+      {
+        "color": "green",
+        "value": "1"
+      },
+      {
+        "color": "green",
+        "value": "8"
+      },
+      {
+        "color": "blue",
+        "value": "12"
+      },
+      {
+        "color": "yellow",
+        "value": "5"
+      },
+      {
+        "color": "red",
+        "value": "6"
+      },
+      {
+        "color": "red",
+        "value": "4"
+      },
+      {
+        "color": "yellow",
+        "value": "6"
+      },
+      {
+        "color": "green",
+        "value": "12"
+      },
+      {
+        "color": "green",
+        "value": "11"
+      },
+      {
+        "color": "blue",
+        "value": "2"
+      },
+      {
+        "color": "red",
+        "value": "10"
+      },
+      {
+        "color": "green",
+        "value": "9"
+      },
+      {
+        "color": "blue",
+        "value": "9"
+      },
+      {
+        "color": "blue",
+        "value": "3"
+      },
+      {
+        "color": "black",
+        "value": "wild13"
+      },
+      {
+        "color": "yellow",
+        "value": "4"
+      },
+      {
+        "color": "red",
+        "value": "3"
+      },
+      {
+        "color": "yellow",
+        "value": "3"
+      },
+      {
+        "color": "red",
+        "value": "3"
+      },
+      {
+        "color": "black",
+        "value": "wild13"
+      },
+      {
+        "color": "red",
+        "value": "8"
+      },
+      {
+        "color": "yellow",
+        "value": "2"
+      },
+      {
+        "color": "yellow",
+        "value": "12"
+      },
+      {
+        "color": "blue",
+        "value": "11"
+      },
+      {
+        "color": "green",
+        "value": "12"
+      },
+      {
+        "color": "yellow",
+        "value": "8"
+      },
+      {
+        "color": "red",
+        "value": "5"
+      },
+      {
+        "color": "yellow",
+        "value": "11"
+      },
+      {
+        "color": "red",
+        "value": "1"
+      },
+      {
+        "color": "blue",
+        "value": "3"
+      },
+      {
+        "color": "red",
+        "value": "2"
+      },
+      {
+        "color": "blue",
+        "value": "5"
+      },
+      {
+        "color": "blue",
+        "value": "10"
+      },
+      {
+        "color": "red",
+        "value": "10"
+      },
+      {
+        "color": "blue",
+        "value": "4"
+      },
+      {
+        "color": "green",
+        "value": "2"
+      },
+      {
+        "color": "blue",
+        "value": "1"
+      },
+      {
+        "color": "red",
+        "value": "12"
+      },
+      {
+        "color": "green",
+        "value": "6"
+      },
+      {
+        "color": "green",
+        "value": "7"
+      },
+      {
+        "color": "green",
+        "value": "8"
+      },
+      {
+        "color": "yellow",
+        "value": "3"
+      },
+      {
+        "color": "red",
+        "value": "8"
+      },
+      {
+        "color": "green",
+        "value": "5"
+      },
+      {
+        "color": "blue",
+        "value": "11"
+      },
+      {
+        "color": "red",
+        "value": "9"
+      },
+      {
+        "color": "blue",
+        "value": "6"
+      },
+      {
+        "color": "blue",
+        "value": "7"
+      },
+      {
+        "color": "green",
+        "value": "4"
+      },
+      {
+        "color": "blue",
+        "value": "4"
+      },
+      {
+        "color": "green",
+        "value": "9"
+      },
+      {
+        "color": "green",
+        "value": "4"
+      },
+      {
+        "color": "green",
+        "value": "11"
+      },
+      {
+        "color": "red",
+        "value": "2"
+      },
+      {
+        "color": "yellow",
+        "value": "10"
+      },
+      {
+        "color": "green",
+        "value": "5"
+      },
+      {
+        "color": "green",
+        "value": "10"
+      },
+      {
+        "color": "red",
+        "value": "7"
+      },
+      {
+        "color": "green",
+        "value": "10"
+      },
+      {
+        "color": "black",
+        "value": "wild14"
+      },
+      {
+        "color": "blue",
+        "value": "8"
+      },
+      {
+        "color": "red",
+        "value": "9"
+      }
+    ],
+    "discardPile": [],
+    "currentPlayer": 0,
+    "direction": 1,
+    "currentCard": null,
+    "drawStack": 0,
+    "blockCardPlayed": false,
+    "reverseCardPlayed": false,
+    "stopVotes": {},
+    "awaitingColorChoice": false
+  },
+  "120363400689237098@g.us": {
+    "players": [],
+    "deck": [
+      {
+        "color": "yellow",
+        "value": "5"
+      },
+      {
+        "color": "yellow",
+        "value": "6"
+      },
+      {
+        "color": "green",
+        "value": "3"
+      },
+      {
+        "color": "green",
+        "value": "4"
+      },
+      {
+        "color": "blue",
+        "value": "2"
+      },
+      {
+        "color": "yellow",
+        "value": "2"
+      },
+      {
+        "color": "red",
+        "value": "9"
+      },
+      {
+        "color": "blue",
+        "value": "11"
+      },
+      {
+        "color": "green",
+        "value": "5"
+      },
+      {
+        "color": "red",
+        "value": "10"
+      },
+      {
+        "color": "blue",
+        "value": "11"
+      },
+      {
+        "color": "green",
+        "value": "2"
+      },
+      {
+        "color": "blue",
+        "value": "9"
+      },
+      {
+        "color": "blue",
+        "value": "7"
+      },
+      {
+        "color": "yellow",
+        "value": "1"
+      },
+      {
+        "color": "blue",
+        "value": "9"
+      },
+      {
+        "color": "green",
+        "value": "12"
+      },
+      {
+        "color": "green",
+        "value": "8"
+      },
+      {
+        "color": "red",
+        "value": "2"
+      },
+      {
+        "color": "red",
+        "value": "7"
+      },
+      {
+        "color": "green",
+        "value": "7"
+      },
+      {
+        "color": "blue",
+        "value": "3"
+      },
+      {
+        "color": "red",
+        "value": "8"
+      },
+      {
+        "color": "red",
+        "value": "12"
+      },
+      {
+        "color": "green",
+        "value": "9"
+      },
+      {
+        "color": "yellow",
+        "value": "10"
+      },
+      {
+        "color": "red",
+        "value": "6"
+      },
+      {
+        "color": "blue",
+        "value": "10"
+      },
+      {
+        "color": "red",
+        "value": "8"
+      },
+      {
+        "color": "green",
+        "value": "8"
+      },
+      {
+        "color": "green",
+        "value": "11"
+      },
+      {
+        "color": "yellow",
+        "value": "8"
+      },
+      {
+        "color": "red",
+        "value": "10"
+      },
+      {
+        "color": "yellow",
+        "value": "5"
+      },
+      {
+        "color": "yellow",
+        "value": "4"
+      },
+      {
+        "color": "green",
+        "value": "10"
+      },
+      {
+        "color": "blue",
+        "value": "3"
+      },
+      {
+        "color": "blue",
+        "value": "12"
+      },
+      {
+        "color": "yellow",
+        "value": "3"
+      },
+      {
+        "color": "yellow",
+        "value": "2"
+      },
+      {
+        "color": "black",
+        "value": "wild14"
+      },
+      {
+        "color": "blue",
+        "value": "1"
+      },
+      {
+        "color": "blue",
+        "value": "10"
+      },
+      {
+        "color": "yellow",
+        "value": "6"
+      },
+      {
+        "color": "blue",
+        "value": "12"
+      },
+      {
+        "color": "green",
+        "value": "1"
+      },
+      {
+        "color": "yellow",
+        "value": "11"
+      },
+      {
+        "color": "red",
+        "value": "7"
+      },
+      {
+        "color": "blue",
+        "value": "4"
+      },
+      {
+        "color": "black",
+        "value": "wild13"
+      },
+      {
+        "color": "red",
+        "value": "4"
+      },
+      {
+        "color": "green",
+        "value": "6"
+      },
+      {
+        "color": "green",
+        "value": "10"
+      },
+      {
+        "color": "red",
+        "value": "3"
+      },
+      {
+        "color": "blue",
+        "value": "2"
+      },
+      {
+        "color": "yellow",
+        "value": "3"
+      },
+      {
+        "color": "yellow",
+        "value": "12"
+      },
+      {
+        "color": "red",
+        "value": "12"
+      },
+      {
+        "color": "blue",
+        "value": "7"
+      },
+      {
+        "color": "red",
+        "value": "11"
+      },
+      {
+        "color": "green",
+        "value": "2"
+      },
+      {
+        "color": "yellow",
+        "value": "4"
+      },
+      {
+        "color": "green",
+        "value": "7"
+      },
+      {
+        "color": "blue",
+        "value": "5"
+      },
+      {
+        "color": "red",
+        "value": "11"
+      },
+      {
+        "color": "red",
+        "value": "2"
+      },
+      {
+        "color": "blue",
+        "value": "5"
+      },
+      {
+        "color": "red",
+        "value": "5"
+      },
+      {
+        "color": "green",
+        "value": "12"
+      },
+      {
+        "color": "green",
+        "value": "6"
+      },
+      {
+        "color": "black",
+        "value": "wild14"
+      },
+      {
+        "color": "yellow",
+        "value": "8"
+      },
+      {
+        "color": "yellow",
+        "value": "9"
+      },
+      {
+        "color": "red",
+        "value": "3"
+      },
+      {
+        "color": "red",
+        "value": "9"
+      },
+      {
+        "color": "green",
+        "value": "5"
+      },
+      {
+        "color": "yellow",
+        "value": "11"
+      },
+      {
+        "color": "blue",
+        "value": "8"
+      },
+      {
+        "color": "yellow",
+        "value": "9"
+      },
+      {
+        "color": "yellow",
+        "value": "7"
+      },
+      {
+        "color": "green",
+        "value": "4"
+      },
+      {
+        "color": "red",
+        "value": "5"
+      },
+      {
+        "color": "red",
+        "value": "6"
+      },
+      {
+        "color": "yellow",
+        "value": "7"
+      },
+      {
+        "color": "blue",
+        "value": "4"
+      },
+      {
+        "color": "blue",
+        "value": "6"
+      },
+      {
+        "color": "blue",
+        "value": "6"
+      },
+      {
+        "color": "green",
+        "value": "3"
+      },
+      {
+        "color": "black",
+        "value": "wild13"
+      },
+      {
+        "color": "yellow",
+        "value": "10"
+      },
+      {
+        "color": "yellow",
+        "value": "12"
+      },
+      {
+        "color": "green",
+        "value": "11"
+      },
+      {
+        "color": "red",
+        "value": "4"
+      },
+      {
+        "color": "blue",
+        "value": "8"
+      },
+      {
+        "color": "green",
+        "value": "9"
+      },
+      {
+        "color": "red",
+        "value": "1"
+      }
+    ],
+    "discardPile": [],
+    "currentPlayer": 0,
+    "direction": 1,
+    "currentCard": null,
+    "drawStack": 0,
+    "blockCardPlayed": false,
+    "reverseCardPlayed": false,
+    "stopVotes": {},
+    "awaitingColorChoice": false
+  },
+  "120363422043398339@g.us": {
+    "players": [
+      {
+        "id": "62895399912299@s.whatsapp.net",
+        "hand": []
+      },
+      {
+        "id": "62895326796795@s.whatsapp.net",
+        "hand": []
+      }
+    ],
+    "deck": [
+      {
+        "color": "green",
+        "value": "5"
+      },
+      {
+        "color": "red",
+        "value": "10"
+      },
+      {
+        "color": "green",
+        "value": "8"
+      },
+      {
+        "color": "yellow",
+        "value": "6"
+      },
+      {
+        "color": "green",
+        "value": "6"
+      },
+      {
+        "color": "red",
+        "value": "3"
+      },
+      {
+        "color": "yellow",
+        "value": "4"
+      },
+      {
+        "color": "blue",
+        "value": "1"
+      },
+      {
+        "color": "yellow",
+        "value": "11"
+      },
+      {
+        "color": "blue",
+        "value": "11"
+      },
+      {
+        "color": "yellow",
+        "value": "5"
+      },
+      {
+        "color": "yellow",
+        "value": "8"
+      },
+      {
+        "color": "blue",
+        "value": "2"
+      },
+      {
+        "color": "blue",
+        "value": "8"
+      },
+      {
+        "color": "red",
+        "value": "12"
+      },
+      {
+        "color": "green",
+        "value": "2"
+      },
+      {
+        "color": "red",
+        "value": "7"
+      },
+      {
+        "color": "yellow",
+        "value": "3"
+      },
+      {
+        "color": "blue",
+        "value": "7"
+      },
+      {
+        "color": "yellow",
+        "value": "12"
+      },
+      {
+        "color": "red",
+        "value": "5"
+      },
+      {
+        "color": "yellow",
+        "value": "3"
+      },
+      {
+        "color": "red",
+        "value": "4"
+      },
+      {
+        "color": "red",
+        "value": "10"
+      },
+      {
+        "color": "blue",
+        "value": "3"
+      },
+      {
+        "color": "yellow",
+        "value": "10"
+      },
+      {
+        "color": "black",
+        "value": "wild14"
+      },
+      {
+        "color": "green",
+        "value": "7"
+      },
+      {
+        "color": "red",
+        "value": "1"
+      },
+      {
+        "color": "yellow",
+        "value": "8"
+      },
+      {
+        "color": "yellow",
+        "value": "5"
+      },
+      {
+        "color": "yellow",
+        "value": "6"
+      },
+      {
+        "color": "yellow",
+        "value": "10"
+      },
+      {
+        "color": "blue",
+        "value": "9"
+      },
+      {
+        "color": "yellow",
+        "value": "1"
+      },
+      {
+        "color": "red",
+        "value": "6"
+      },
+      {
+        "color": "green",
+        "value": "3"
+      },
+      {
+        "color": "green",
+        "value": "4"
+      },
+      {
+        "color": "green",
+        "value": "8"
+      },
+      {
+        "color": "blue",
+        "value": "10"
+      },
+      {
+        "color": "green",
+        "value": "9"
+      },
+      {
+        "color": "green",
+        "value": "10"
+      },
+      {
+        "color": "blue",
+        "value": "8"
+      },
+      {
+        "color": "blue",
+        "value": "12"
+      },
+      {
+        "color": "yellow",
+        "value": "7"
+      },
+      {
+        "color": "blue",
+        "value": "9"
+      },
+      {
+        "color": "yellow",
+        "value": "4"
+      },
+      {
+        "color": "red",
+        "value": "7"
+      },
+      {
+        "color": "yellow",
+        "value": "11"
+      },
+      {
+        "color": "red",
+        "value": "11"
+      },
+      {
+        "color": "red",
+        "value": "2"
+      },
+      {
+        "color": "black",
+        "value": "wild13"
+      },
+      {
+        "color": "red",
+        "value": "12"
+      },
+      {
+        "color": "blue",
+        "value": "6"
+      },
+      {
+        "color": "red",
+        "value": "5"
+      },
+      {
+        "color": "red",
+        "value": "11"
+      },
+      {
+        "color": "green",
+        "value": "11"
+      },
+      {
+        "color": "green",
+        "value": "2"
+      },
+      {
+        "color": "green",
+        "value": "11"
+      },
+      {
+        "color": "yellow",
+        "value": "2"
+      },
+      {
+        "color": "red",
+        "value": "8"
+      },
+      {
+        "color": "green",
+        "value": "12"
+      },
+      {
+        "color": "yellow",
+        "value": "7"
+      },
+      {
+        "color": "blue",
+        "value": "11"
+      },
+      {
+        "color": "red",
+        "value": "2"
+      },
+      {
+        "color": "green",
+        "value": "6"
+      },
+      {
+        "color": "blue",
+        "value": "3"
+      },
+      {
+        "color": "red",
+        "value": "6"
+      },
+      {
+        "color": "green",
+        "value": "4"
+      },
+      {
+        "color": "blue",
+        "value": "7"
+      },
+      {
+        "color": "red",
+        "value": "8"
+      },
+      {
+        "color": "green",
+        "value": "10"
+      },
+      {
+        "color": "blue",
+        "value": "12"
+      },
+      {
+        "color": "yellow",
+        "value": "12"
+      },
+      {
+        "color": "black",
+        "value": "wild13"
+      },
+      {
+        "color": "blue",
+        "value": "5"
+      },
+      {
+        "color": "blue",
+        "value": "6"
+      },
+      {
+        "color": "red",
+        "value": "4"
+      },
+      {
+        "color": "green",
+        "value": "1"
+      },
+      {
+        "color": "blue",
+        "value": "4"
+      },
+      {
+        "color": "green",
+        "value": "9"
+      },
+      {
+        "color": "red",
+        "value": "3"
+      },
+      {
+        "color": "blue",
+        "value": "5"
+      },
+      {
+        "color": "yellow",
+        "value": "9"
+      },
+      {
+        "color": "green",
+        "value": "5"
+      },
+      {
+        "color": "blue",
+        "value": "2"
+      },
+      {
+        "color": "blue",
+        "value": "10"
+      },
+      {
+        "color": "black",
+        "value": "wild14"
+      },
+      {
+        "color": "green",
+        "value": "3"
+      },
+      {
+        "color": "green",
+        "value": "7"
+      },
+      {
+        "color": "red",
+        "value": "9"
+      },
+      {
+        "color": "green",
+        "value": "12"
+      },
+      {
+        "color": "yellow",
+        "value": "2"
+      },
+      {
+        "color": "yellow",
+        "value": "9"
+      },
+      {
+        "color": "blue",
+        "value": "4"
+      },
+      {
+        "color": "red",
+        "value": "9"
+      }
+    ],
+    "discardPile": [],
+    "currentPlayer": 0,
+    "direction": 1,
+    "currentCard": null,
+    "drawStack": 0,
+    "blockCardPlayed": false,
+    "reverseCardPlayed": false,
+    "stopVotes": {},
+    "awaitingColorChoice": false
+  },
+  "120363403675389064@g.us": {
+    "players": [
+      {
+        "id": "6281543496975@s.whatsapp.net",
+        "hand": []
+      },
+      {
+        "id": "6285756125171@s.whatsapp.net",
+        "hand": []
+      }
+    ],
+    "deck": [
+      {
+        "color": "red",
+        "value": "1"
+      },
+      {
+        "color": "red",
+        "value": "3"
+      },
+      {
+        "color": "yellow",
+        "value": "3"
+      },
+      {
+        "color": "yellow",
+        "value": "6"
+      },
+      {
+        "color": "blue",
+        "value": "10"
+      },
+      {
+        "color": "red",
+        "value": "6"
+      },
+      {
+        "color": "red",
+        "value": "9"
+      },
+      {
+        "color": "green",
+        "value": "10"
+      },
+      {
+        "color": "green",
+        "value": "8"
+      },
+      {
+        "color": "yellow",
+        "value": "12"
+      },
+      {
+        "color": "green",
+        "value": "12"
+      },
+      {
+        "color": "blue",
+        "value": "7"
+      },
+      {
+        "color": "green",
+        "value": "11"
+      },
+      {
+        "color": "red",
+        "value": "7"
+      },
+      {
+        "color": "yellow",
+        "value": "11"
+      },
+      {
+        "color": "green",
+        "value": "9"
+      },
+      {
+        "color": "blue",
+        "value": "5"
+      },
+      {
+        "color": "yellow",
+        "value": "5"
+      },
+      {
+        "color": "red",
+        "value": "2"
+      },
+      {
+        "color": "yellow",
+        "value": "8"
+      },
+      {
+        "color": "blue",
+        "value": "12"
+      },
+      {
+        "color": "red",
+        "value": "4"
+      },
+      {
+        "color": "blue",
+        "value": "8"
+      },
+      {
+        "color": "red",
+        "value": "6"
+      },
+      {
+        "color": "red",
+        "value": "4"
+      },
+      {
+        "color": "red",
+        "value": "8"
+      },
+      {
+        "color": "green",
+        "value": "4"
+      },
+      {
+        "color": "yellow",
+        "value": "7"
+      },
+      {
+        "color": "red",
+        "value": "2"
+      },
+      {
+        "color": "green",
+        "value": "1"
+      },
+      {
+        "color": "yellow",
+        "value": "7"
+      },
+      {
+        "color": "blue",
+        "value": "3"
+      },
+      {
+        "color": "black",
+        "value": "wild13"
+      },
+      {
+        "color": "red",
+        "value": "10"
+      },
+      {
+        "color": "yellow",
+        "value": "9"
+      },
+      {
+        "color": "yellow",
+        "value": "4"
+      },
+      {
+        "color": "red",
+        "value": "12"
+      },
+      {
+        "color": "red",
+        "value": "11"
+      },
+      {
+        "color": "green",
+        "value": "10"
+      },
+      {
+        "color": "red",
+        "value": "12"
+      },
+      {
+        "color": "blue",
+        "value": "10"
+      },
+      {
+        "color": "blue",
+        "value": "4"
+      },
+      {
+        "color": "yellow",
+        "value": "1"
+      },
+      {
+        "color": "green",
+        "value": "5"
+      },
+      {
+        "color": "red",
+        "value": "10"
+      },
+      {
+        "color": "red",
+        "value": "11"
+      },
+      {
+        "color": "blue",
+        "value": "4"
+      },
+      {
+        "color": "yellow",
+        "value": "10"
+      },
+      {
+        "color": "red",
+        "value": "5"
+      },
+      {
+        "color": "blue",
+        "value": "6"
+      },
+      {
+        "color": "black",
+        "value": "wild14"
+      },
+      {
+        "color": "blue",
+        "value": "2"
+      },
+      {
+        "color": "red",
+        "value": "5"
+      },
+      {
+        "color": "blue",
+        "value": "5"
+      },
+      {
+        "color": "green",
+        "value": "4"
+      },
+      {
+        "color": "yellow",
+        "value": "4"
+      },
+      {
+        "color": "blue",
+        "value": "8"
+      },
+      {
+        "color": "green",
+        "value": "2"
+      },
+      {
+        "color": "black",
+        "value": "wild13"
+      },
+      {
+        "color": "yellow",
+        "value": "8"
+      },
+      {
+        "color": "blue",
+        "value": "3"
+      },
+      {
+        "color": "green",
+        "value": "2"
+      },
+      {
+        "color": "red",
+        "value": "7"
+      },
+      {
+        "color": "blue",
+        "value": "11"
+      },
+      {
+        "color": "red",
+        "value": "3"
+      },
+      {
+        "color": "blue",
+        "value": "12"
+      },
+      {
+        "color": "yellow",
+        "value": "12"
+      },
+      {
+        "color": "green",
+        "value": "6"
+      },
+      {
+        "color": "blue",
+        "value": "7"
+      },
+      {
+        "color": "green",
+        "value": "7"
+      },
+      {
+        "color": "blue",
+        "value": "9"
+      },
+      {
+        "color": "yellow",
+        "value": "10"
+      },
+      {
+        "color": "blue",
+        "value": "9"
+      },
+      {
+        "color": "green",
+        "value": "5"
+      },
+      {
+        "color": "yellow",
+        "value": "9"
+      },
+      {
+        "color": "blue",
+        "value": "2"
+      },
+      {
+        "color": "yellow",
+        "value": "11"
+      },
+      {
+        "color": "yellow",
+        "value": "2"
+      },
+      {
+        "color": "green",
+        "value": "7"
+      },
+      {
+        "color": "yellow",
+        "value": "3"
+      },
+      {
+        "color": "green",
+        "value": "11"
+      },
+      {
+        "color": "black",
+        "value": "wild14"
+      },
+      {
+        "color": "yellow",
+        "value": "2"
+      },
+      {
+        "color": "green",
+        "value": "8"
+      },
+      {
+        "color": "blue",
+        "value": "11"
+      },
+      {
+        "color": "green",
+        "value": "6"
+      },
+      {
+        "color": "red",
+        "value": "9"
+      },
+      {
+        "color": "green",
+        "value": "12"
+      },
+      {
+        "color": "yellow",
+        "value": "6"
+      },
+      {
+        "color": "green",
+        "value": "3"
+      },
+      {
+        "color": "red",
+        "value": "8"
+      },
+      {
+        "color": "blue",
+        "value": "1"
+      },
+      {
+        "color": "green",
+        "value": "3"
+      },
+      {
+        "color": "green",
+        "value": "9"
+      },
+      {
+        "color": "blue",
+        "value": "6"
+      },
+      {
+        "color": "yellow",
+        "value": "5"
+      }
+    ],
+    "discardPile": [],
+    "currentPlayer": 0,
+    "direction": 1,
+    "currentCard": null,
+    "drawStack": 0,
+    "blockCardPlayed": false,
+    "reverseCardPlayed": false,
+    "stopVotes": {},
+    "awaitingColorChoice": false
+  }
+}

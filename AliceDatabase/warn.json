@@ -1,0 +1,65 @@
+{
+  "120363374057952930@g.us": {
+    "maxWarn": 5,
+    "warns": {
+      "62881023665485@s.whatsapp.net": 2
+    }
+  },
+  "120363353465602736@g.us": {
+    "maxWarn": 5,
+    "warns": {
+      "62881026747703@s.whatsapp.net": 1
+    }
+  },
+  "120363316666930006@g.us": {
+    "maxWarn": 2,
+    "warns": {}
+  },
+  "120363372423818377@g.us": {
+    "maxWarn": 4,
+    "warns": {
+      "6282396582850@s.whatsapp.net": 1,
+      "6285956337454@s.whatsapp.net": 2,
+      "6289513898540@s.whatsapp.net": 1,
+      "6285866569284@s.whatsapp.net": 2,
+      "6283876892331@s.whatsapp.net": 3,
+      "6285215527536@s.whatsapp.net": 2
+    }
+  },
+  "120363212737245798@g.us": {
+    "maxWarn": 3,
+    "warns": {
+      "6285707277252@s.whatsapp.net": 1,
+      "6285956337454@s.whatsapp.net": 1,
+      "6283896913477@s.whatsapp.net": 1
+    }
+  },
+  "120363402419927276@g.us": {
+    "maxWarn": 3,
+    "warns": {
+      "6281547174358@s.whatsapp.net": 1,
+      "62895393325895@s.whatsapp.net": 2,
+      "62881012497825@s.whatsapp.net": 1,
+      "6281295554579@s.whatsapp.net": 1,
+      "6285333560949@s.whatsapp.net": 1,
+      "62881026908371@s.whatsapp.net": 1,
+      "62881012691078@s.whatsapp.net": 2,
+      "6281410585249@s.whatsapp.net": 2,
+      "6288226440661@s.whatsapp.net": 1,
+      "6285123989358@s.whatsapp.net": 1
+    }
+  },
+  "120363401394331125@g.us": {
+    "maxWarn": 3,
+    "warns": {
+      "6281228599963@s.whatsapp.net": 1
+    }
+  },
+  "120363420856716977@g.us": {
+    "maxWarn": 2,
+    "warns": {
+      "6281252517329@s.whatsapp.net": 1,
+      "6285956337454@s.whatsapp.net": 1
+    }
+  }
+}
